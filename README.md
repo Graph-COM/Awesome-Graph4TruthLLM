@@ -113,6 +113,7 @@
 - [SentinelAgent: Graph-Based Anomaly Detection in Multi-Agent Systems](https://arxiv.org/abs/2505.24201) - arXiv 2025
 - [GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling](https://arxiv.org/abs/2505.19234) - arXiv 2025
 - [Deliberative Alignment: Reasoning Enables Safer Language Models](https://arxiv.org/abs/2412.16339) - arXiv 2024
+- [G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems](https://aclanthology.org/2025.acl-long.359/) - ACL 2025
 
 ## Citation
 
